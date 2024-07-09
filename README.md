@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on PHP web dev, training models on air quality data, and building pipelines with metaflow
 - 🌱 I’m currently learning PHP, laravel, metaflow
 - 👯 I’m looking to collaborate on anything in Python or PHP
-- 💬 Ask me about Ghana
-- 📫 How to reach me: ollie.nicholson@gmail.com
+- 📫 Reach me via ollie.nicholson@gmail.com
 
 ## 🌱 Learning Goals 2024
 - **AWS Cloud Practitioner Certification**: Preparing for the certification to deepen my understanding of cloud computing.
