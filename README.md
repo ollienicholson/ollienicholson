@@ -30,4 +30,4 @@
 
 *Let's connect and build!*
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollienicholson&show_icons=true&theme=default)
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollienicholson&show_icons=true&theme=transparent)
