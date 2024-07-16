@@ -1,8 +1,8 @@
 # Hi I'm Ollie 👋
 
-- 🔭 I’m currently working on PHP web dev, building pipelines with metaflow, and training ML models on air quality data.
-- 🌱 I’m currently learning PHP, laravel, metaflow
-- 👯 I’m looking to collaborate on anything Python or PHP
+- 🔭 Working on PHP web dev, building pipelines with metaflow, and training ML models on air quality data.
+- 🌱 Learning PHP, laravel, and metaflow via Effective Data Science Infrastructure (book). 
+- 👯 I’m looking to collaborate on anything Python or PHP!
 - 📫 Reach me via ollie.nicholson@gmail.com
 
 ## 🚀 Featured Repositories 
@@ -11,9 +11,9 @@
 - [Personal Website](https://github.com/ollienicholson/website1.0.git)
 
 ## 💻 Tech Stack
-- **Languages**: Python (including pandas, NumPy & OOP), SQL, PHP, Javascript, Typescript, HTML, Tailwind CSS, bash
-- **Platforms**: VS Code, PyCharm, Jupyter Notebooks, PowerBI, Looker, Airflow, Metaflow, Vercel, Git, AWS Cloud
-- **Databases**: MS SQL Server, PostgreSQL, MySQL, SQLite, PlanetScale, Prisma
+- **Languages**: Python ( + pandas, NumPy, Django), SQL, PHP ( + Laravel), Javascript, Typescript, HTML, Tailwind CSS, bash
+- **Platforms**: VS Code, PyCharm, Jupyter Notebooks, PowerBI, Looker, Airflow, Metaflow, GitHub, Vercel, Heroku, Docker, AWS Cloud - EC2, S3, RDS
+- **Databases**: MySQL, MS SQL Server, PostgreSQL, SQLite, PlanetScale, Prisma
 
 ## 🌱 Learning Goals 2024
 - **PHP Web Development**: Exploring the world of PHP to expand my programming skills and knowledge
@@ -21,8 +21,8 @@
 - **AWS Cloud Practitioner Certification**: Preparing for the certification to deepen my understanding of cloud computing
 
 ## 🔧 Other Tools In The Belt
-- **Productivity**: Trello, Notion
-- **Design**: Figma
+- **Productivity**: Trello, Notion, & Siri 😂
+- **Design**: Figma (UX/UI), Draw.io (system design)
 
 ---
 
