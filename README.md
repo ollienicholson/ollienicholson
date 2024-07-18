@@ -1,4 +1,4 @@
-# Hi I'm Ollie 👋
+# Hey I'm Ollie 👋
 
 - 🔭 Working on PHP web dev, building pipelines with metaflow, and training ML models on air quality data.
 - 🌱 Learning PHP, laravel, and metaflow via Effective Data Science Infrastructure (book). 
