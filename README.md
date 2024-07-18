@@ -26,6 +26,6 @@
 
 ---
 
-*Shoot me a message if you're keen to collaborate!*
+*Shoot me an email if you're keen to collaborate*
 
 ![GitHub stats for laughs](https://github-readme-stats.vercel.app/api?username=ollienicholson&show_icons=true&theme=transparent)
