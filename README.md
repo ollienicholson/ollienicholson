@@ -28,4 +28,4 @@
 
 *Shoot me a message if you're keen to collaborate!*
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollienicholson&show_icons=true&theme=transparent)
+![GitHub stats for laughs](https://github-readme-stats.vercel.app/api?username=ollienicholson&show_icons=true&theme=transparent)
