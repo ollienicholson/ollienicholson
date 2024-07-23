@@ -1,8 +1,8 @@
 # Hey I'm Ollie 👋
 
-- 🔭 Working on PHP web dev, building pipelines with metaflow, and training ML models on air quality data.
-- 🌱 Learning PHP, laravel, and metaflow via Effective Data Science Infrastructure (book). 
-- 👯 I’m looking to collaborate on anything Python or PHP!
+- 🔭 I'm working on PHP web dev, building pipelines with metaflow, and training ML models on air quality data.
+- 🌱 I'm learning PHP, laravel, and metaflow via Effective Data Science Infrastructure (book). 
+- 👯 I’m keen to collaborate on any Python or PHP project!
 - 📫 Reach me via ollie.nicholson@gmail.com
 
 ## 🚀 Featured Repositories 
