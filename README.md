@@ -28,4 +28,4 @@
 
 *Shoot me an email if you're keen to collaborate*
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ollienicholson&show_icons=true&theme=transparent&title_color=e30b5c)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ollienicholson&show_icons=true&theme=transparent&title_color=0096ff)
