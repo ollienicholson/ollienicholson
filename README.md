@@ -11,12 +11,12 @@
 - [Personal Website](https://github.com/ollienicholson/website1.0.git)
 
 ## 💻 Tech Stack
-- **Languages**: Python ( + pandas, NumPy, Django), SQL, PHP ( + Laravel), Javascript, Typescript, HTML, Tailwind CSS, bash
+- **Languages**: Python ( + pandas, NumPy, Django), SQL, T3 (Typescript, tRPC, Tailwind), PHP ( + Laravel), Javascript, Typescript, HTML, Tailwind CSS, bash
 - **Platforms**: VS Code, PyCharm, Jupyter Notebooks, PowerBI, Looker, Airflow, Metaflow, GitHub, Vercel, Heroku, Docker, AWS Cloud - Beginner
 - **Databases**: MySQL, MS SQL Server, PostgreSQL, SQLite, PlanetScale, Prisma
 
 ## 🌱 Learning Goals 2024
-- **PHP Web Development**: Exploring the world of PHP to expand my programming skills and knowledge
+- **T3 Web Development**: Exploring the world of T3 to expand my skills
 - **Data Engineering**: Diving into data engineering to work with large-scale data processing and analysis
 - **AWS Cloud Practitioner Certification**: Preparing for the certification to deepen my understanding of cloud computing
 
