@@ -1,8 +1,8 @@
 # Hey I'm Ollie 👋
 
 - 🔭 I'm currently building web dev with T3 stack, building data pipelines with metaflow, and building data reports on Looker.
-- 🌱 I'm learning PHP, laravel, and metaflow via Effective Data Science Infrastructure (book). 
-- 👯 I’m keen to collaborate on Python or PHP projects - flick me a message.
+- 🌱 I'm learning metaflow via Effective Data Science Infrastructure by Ville Tuulos. 
+- 👯 I’m keen to collaborate on DS or web dev projects - flick me a message.
 - 📫 Reach me via ollie.nicholson@gmail.com
 
 ## 🚀 Featured Repositories 
