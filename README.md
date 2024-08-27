@@ -6,7 +6,7 @@
 
 ## 🚀 Featured Repositories 
 - [Air Quality Predictor](https://github.com/ollienicholson/air_quality_prediction.git)
-- ([Interactive Dashboard with Next.js](https://github.com/ollienicholson/nextjs-dashie.git))
+- [Interactive Dashboard with Next.js](https://github.com/ollienicholson/nextjs-dashie.git)
 - [Personal Website](https://github.com/ollienicholson/website1.0.git)
 
 ## 💻 Tech Stack
