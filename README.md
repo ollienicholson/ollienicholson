@@ -1,9 +1,8 @@
 # Hey I'm Ollie 👋
 
-- 🔭 I'm currently building web dev with T3 stack, building data pipelines with metaflow, and building data reports on Looker.
+- 🔭 Currently building web dev with T3 stack, data pipelines with metaflow, and data reports in Looker.
 - 🌱 I'm learning metaflow via Effective Data Science Infrastructure by Ville Tuulos. 
-- 👯 I’m keen to collaborate on DS or web dev projects - flick me a message.
-- 📫 Reach me via ollie.nicholson@gmail.com
+- 📫 Reach me via ollie.nicholson@gmail.com if you're keen to collaborate on DS or web dev projects
 
 ## 🚀 Featured Repositories 
 - [Air Quality Predictor](https://github.com/ollienicholson/air_quality_prediction.git)
@@ -11,18 +10,18 @@
 - [Personal Website](https://github.com/ollienicholson/website1.0.git)
 
 ## 💻 Tech Stack
-- **Languages**: Python ( + pandas, NumPy, Django), SQL, T3 (Typescript, tRPC, Tailwind), PHP ( + Laravel), Javascript, Typescript, HTML, Tailwind CSS, bash
-- **Platforms**: VS Code, PyCharm, Jupyter Notebooks, PowerBI, Looker, Airflow, Metaflow, GitHub, Vercel, Heroku, Docker, AWS Cloud - Beginner
-- **Databases**: MySQL, MS SQL Server, PostgreSQL, SQLite, PlanetScale, Prisma
+- **Languages**: Typescript, Python (including pandas, NumPy, Django), SQL, Tailwind CSS, Javascript, HTML, CSS, PHP
+- **Platforms**: VS Code, Jupyter Notebooks, PowerBI, Looker, Airflow, Metaflow, GitHub, Vercel, Heroku, Docker, AWS Cloud - Beginner
+- **Databases**: MySQL, MS SQL Server, PostgreSQL, SQLite, Prisma, Drizzle
 
 ## 🌱 Learning Goals 2024
-- **T3 Web Development**: Exploring the world of T3 to expand my skills
-- **Data Engineering**: Diving into data engineering to work with large-scale data processing and analysis
-- **AWS Cloud Practitioner Certification**: Preparing for the certification to deepen my understanding of cloud computing
+- **Web Development**: Building with Nextjs, T3, React.
+- **Data Engineering**: Diving into data processing and analysis with tools like Looker and Metaflow
+- **AWS Cloud Practitioner Certification**: Preparing for certification to deepen my understanding of cloud computing
 
 ## 🔧 Other Tools In My Belt
-- **Productivity**: Trello, Notion, & Siri 😂
-- **Design**: Figma (UX/UI), Draw.io (system design)
+- **Productivity**: Trello, Jira, Notion, & Siri 😂
+- **Design**: Figma, Draw.io, Miro
 
 ---
 
