@@ -16,9 +16,9 @@
 - **Databases**: MySQL, MS SQL Server, PostgreSQL, SQLite, Prisma, Drizzle
 
 ## 🌱 Learning Goals 2024
-- **Web Development**: Building with Nextjs, T3, React.
-- **Data Engineering**: Diving into data processing and analysis with tools like Looker and Metaflow
-- **AWS Cloud Practitioner Certification**: Preparing for certification to deepen my understanding of cloud computing
+- **Software Development**: Build with Nextjs, Typescript, React & TailwindCSS
+- **Data Engineering**: Building data piplines and data dashboards with Google Looker and Metaflow.
+- **AWS Cloud Practitioner Certification**: Preparing for certification in AWS cloud.
 
 ## 🔧 Other Tools In My Belt
 - **Productivity**: Trello, Jira, Notion, & Siri 😂
