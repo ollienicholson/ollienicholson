@@ -6,8 +6,9 @@
 
 ## 🚀 Featured Repositories 
 - [Air Quality Predictor](https://github.com/ollienicholson/air_quality_prediction.git)
-- [Interactive Dashboard with Next.js](https://github.com/ollienicholson/nextjs-dashie.git)
-- [Personal Website](https://github.com/ollienicholson/website1.0.git)
+- [Interactive Dashboard](https://github.com/ollienicholson/nextjs-dashie.git)
+- [T3 Full Stack Web Application](https://github.com/ollienicholson/partnerswell-dev.git)
+- [Simple Website](https://github.com/ollienicholson/website1.0.git)
 
 ## 💻 Tech Stack
 - **Languages**: Typescript, Python (including pandas, NumPy, Django), SQL, Tailwind CSS, Javascript, HTML, CSS, PHP
