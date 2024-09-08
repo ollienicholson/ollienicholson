@@ -13,7 +13,7 @@ I'm an experienced full stack developer with an affinty for designing and buildi
 - [Full Stack Web App with T3](https://github.com/ollienicholson/partnerswell-dev.git)
 - [Air Quality Predictor](https://github.com/ollienicholson/air_quality_prediction.git)
 - [Simple Dashboard](https://github.com/ollienicholson/nextjs-dashie.git)
-- [Simple Website](https://github.com/ollienicholson/website1.0.git)
+- [My Personal Site](https://github.com/ollienicholson/website1.0.git)
 
 ## 💻 Tech Stack
 - **Languages**: Typescript, Javascript, Python (including pandas, NumPy, scikit-learn), PHP, SQL, Tailwind & vanilla CSS, HTML5, VBA.
