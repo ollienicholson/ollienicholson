@@ -9,7 +9,7 @@ I'm an experienced full stack developer with an affinty for designing and buildi
 📫 Reach me via Discord @ollienicholson if you're keen to collaborate on DS or web dev projects.
 
 ## 🚀 Featured Repositories 
-- [Responsive Interactive Dashboard](https://github.com/ollienicholson/dashboard-v2.git)
+- [Dynamic Dashboard](https://github.com/ollienicholson/dashboard-v2.git)
 - [Full Stack Web App with T3](https://github.com/ollienicholson/partnerswell-dev.git)
 - [Air Quality Predictor](https://github.com/ollienicholson/air_quality_prediction.git)
 - [Simple Dashboard](https://github.com/ollienicholson/nextjs-dashie.git)
