@@ -1,6 +1,6 @@
 # Hey I'm Ollie 👋
 
-I'm a full stack dev with an affinty for building beautiful and functional frontend. I have a deep love for coding, data, coffee, and people, and I dislike poor UI.
+I'm a full stack dev with an affinty for building beautiful and functional UX/UI. I also have a deep love for programming, data, coffee, and people.
 
 🔭 Currently building web apps with [T3](https://create.t3.gg/) & nextjs, learning DS Infra with Metaflow and building report dashboards with Google Looker Studio.
 
