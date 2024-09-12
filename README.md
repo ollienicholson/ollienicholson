@@ -1,8 +1,8 @@
 # Hey I'm Ollie 👋
 
-I'm an experienced full stack developer with an affinty for designing and building beautiful UI and functional UX. I have a deep love for coding, data, coffee, and people, and I dislike poor UI.
+I'm a full stack dev with an affinty for building beautiful and functional frontend. I have a deep love for coding, data, coffee, and people, and I dislike poor UI.
 
-🔭 Currently building web apps with [T3](https://create.t3.gg/) & nextjs, building DS Infra with Metaflow and dynamic dashboards with Google Looker Studio.
+🔭 Currently building web apps with [T3](https://create.t3.gg/) & nextjs, learning DS Infra with Metaflow and building report dashboards with Google Looker Studio.
 
 🌱 Reading Metaflow via Effective Data Science Infrastructure by Ville Tuulos, 
 
