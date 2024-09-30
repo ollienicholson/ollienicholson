@@ -1,6 +1,6 @@
 # Hey I'm Ollie 👋
 
-I'm a full stack dev with a love for programming, data, coffee, and people.
+I'm a (mostly) frontend dev with a love for programming, data, coffee, business, and people.
 
 🔭 Currently building web apps with [T3](https://create.t3.gg/) & nextjs, learning DS Infra with Metaflow and building report dashboards with Google Looker Studio.
 
