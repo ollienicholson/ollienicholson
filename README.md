@@ -1,6 +1,6 @@
 # Hey I'm Ollie 👋
 
-I'm a (mostly) frontend dev with a love for programming, data, coffee, business, and people.
+I'm a mostly frontend dev with a love for programming, data, coffee, business, and people.
 
 🔭 Currently building web apps with [T3](https://create.t3.gg/) & nextjs, learning DS Infra with Metaflow and building report dashboards with Google Looker Studio.
 
@@ -30,7 +30,7 @@ I'm a (mostly) frontend dev with a love for programming, data, coffee, business,
   - **Web Analytics**: Posthog, Vercel.
   - **UI**: shadcn/ui (CSS++, behaviour, styles).
   - **Routing**: tRPC, @tanstack/react-query.
-- **Databasey stuff**: MySQL, MS SQL Server, PostgreSQL, SQLite, Prisma, Drizzle.
+- **Databases**: MySQL, MS SQL Server, PostgreSQL, SQLite, Prisma, Drizzle.
 
 ## 🌱 Learning Goals 2024
 - **Software Development**: Build more with Nextjs, Typescript, React & TailwindCSS
