@@ -6,7 +6,7 @@ Currently building web apps with nextjs, and building interactive data dashboard
 
 ## 🚀 Featured Repositories 
 - [Dynamic Dashboard](https://github.com/ollienicholson/dashboard-v2.git)
-- [Full Stack Web App with T3](https://github.com/ollienicholson/partnerswell-dev.git)
+- [Simple Stack Web App with T3](https://github.com/ollienicholson/partnerswell-dev.git)
 - [Air Quality Predictor](https://github.com/ollienicholson/air_quality_prediction.git)
 - [Simple Website](https://github.com/ollienicholson/website1.0.git)
 
