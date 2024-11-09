@@ -1,12 +1,10 @@
-# Hey I'm Ollie 👋
+# 👋 I'm Ollie
 
 I'm an experienced software engineer currently focused on building my frontend knowledge.
 
 I have a love for beautiful UI, data, coffee, business, and people.
 
-Currently building web apps with [T3](https://create.t3.gg/) & nextjs, and building interactive data dashboards with Google Looker Studio.
-
-Reach me via Discord @ollienicholson if you're keen to collaborate on a projects!
+Currently building web apps with nextjs, and building interactive data dashboards with Google Looker Studio.
 
 ## 🚀 Featured Repositories 
 - [Dynamic Dashboard](https://github.com/ollienicholson/dashboard-v2.git)
@@ -39,6 +37,8 @@ Reach me via Discord @ollienicholson if you're keen to collaborate on a projects
   - Mockups, wireframes, & business analysis: Figma, Miro, & Excalidraw.
   - System Design: Draw.io.
   - Prototyping: Airtable.
+
+Reach me via Discord @ollienicholson if you're keen to collaborate on a projects!
 
 ---
 
