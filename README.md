@@ -15,7 +15,7 @@ Currently building web apps with nextjs, and building interactive data dashboard
 - **Primary Tools**:
   - **Web Frameworks**: Next.js, React, Flask, Django, Laravel.
   - **Routing**: tRPC, @tanstack/react-query, flask api
-  - **UI**: Mantine UI, Figma, shadcn/ui.
+  - **UI**: Mantine UI, shadcn/ui.
   - **Infra**: Vercel, Heroku, AWS Cloud,  Docker, GitHub
   - **Web Analytics**: Posthog, Hotjar, Vercel.
   - **Testing**: Playwright, Pino, Winston
