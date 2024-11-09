@@ -1,45 +1,44 @@
 # Hey I'm Ollie 👋
 
-I'm a full stack (mostly frontend) dev with a love for data, coffee, business, and people.
+I'm an experienced software engineer currently focused on building my frontend knowledge.
 
-🔭 Currently building web apps with [T3](https://create.t3.gg/) & nextjs, learning DS Infra with Metaflow and building report dashboards with Google Looker Studio.
+I have a love for beautiful UI, data, coffee, business, and people.
 
-🌱 Reading Metaflow via Effective Data Science Infrastructure by Ville Tuulos, 
+Currently building web apps with [T3](https://create.t3.gg/) & nextjs, and building interactive data dashboards with Google Looker Studio.
 
-📫 Reach me via Discord @ollienicholson if you're keen to collaborate on DS or web dev projects.
+Reach me via Discord @ollienicholson if you're keen to collaborate on a projects!
 
 ## 🚀 Featured Repositories 
 - [Dynamic Dashboard](https://github.com/ollienicholson/dashboard-v2.git)
 - [Full Stack Web App with T3](https://github.com/ollienicholson/partnerswell-dev.git)
 - [Air Quality Predictor](https://github.com/ollienicholson/air_quality_prediction.git)
-- [Simple Dashboard](https://github.com/ollienicholson/nextjs-dashie.git)
 - [Simple Website](https://github.com/ollienicholson/website1.0.git)
 
 ## 💻 Tech Stack
-- **Languages**: Typescript, Javascript, Python (including pandas, NumPy, scikit-learn), PHP, SQL, Tailwind & vanilla CSS, HTML5, VBA.
+- **Languages**: Typescript, Javascript, Python, SQL, Tailwind & vanilla CSS, HTML5, VBA, & PHP.
 - **Primary Tools**:
-  - **IDEs**: VS Code, Jupyter Notebooks.
   - **Web Frameworks**: Next.js, React, Flask, Django, Laravel.
-  - **Testing**: Puppeteer, Playwright.
+  - **Routing**: tRPC, @tanstack/react-query, flask api
+  - **UI**: Mantine UI, Figma, shadcn/ui.
+  - **Infra**: Vercel, Heroku, AWS Cloud,  Docker, GitHub
+  - **Web Analytics**: Posthog, Hotjar, Vercel.
+  - **Testing**: Playwright, Pino, Winston
   - **Dashboards**: PowerBI, Looker.
-  - **DE**: Airflow, Metaflow, bash/zsh.
   - **Version Control**: Git.
   - **CI/CD**: GitHub Actions, Vercel.
-  - **Infra**: Vercel, Heroku, AWS Cloud,  Docker.
-  - **Auth**: NextAuth.js, Clerk.
-  - **Web Analytics**: Posthog, Vercel.
-  - **UI**: shadcn/ui (CSS++, behaviour, styles).
-  - **Routing**: tRPC, @tanstack/react-query.
+  - **Auth**: Clerk.
 - **Databases**: MySQL, MS SQL Server, PostgreSQL, SQLite, Prisma, Drizzle.
 
 ## 🌱 Learning Goals 2024
-- **Software Development**: Build more with Nextjs, Typescript, React & TailwindCSS
-- **Data Engineering**: Implement data piplines and dashboards with Google Looker and Metaflow.
+- **Software Development**: Build more with Nextjs & React
 - **AWS Cloud Practitioner Cert**: Preparing for certification in 2025.
 
 ## 🔧 Other Tools In My Belt
 - **Productivity**: Trello, Jira, Notion, & Siri 😂
-- **Design**: Mockups, wireframes: Figma, Miro. System Design: Draw.io, Business Logic: Excalidraw. Prototyping: Airtable.
+- **Design**:
+  - Mockups, wireframes, & business analysis: Figma, Miro, & Excalidraw.
+  - System Design: Draw.io.
+  - Prototyping: Airtable.
 
 ---
 
