@@ -1,8 +1,6 @@
 # 👋 I'm Ollie
 
-I'm an experienced software engineer with a love for beautiful UI, data, coffee, business, and people.
-
-Currently building web apps with nextjs, and building interactive data dashboards with Google Looker Studio.
+Currently building web apps with nextjs.
 
 ## 🚀 Featured Repositories 
 - [Dynamic Dashboard](https://github.com/ollienicholson/dashboard-v2.git)
