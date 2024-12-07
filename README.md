@@ -1,10 +1,8 @@
-the more I learn the less I know.
 
-Reach out via Discord @ollienicholson if you're keen to collaborate on a projects!
+<h4>the more I learn the less I know</h4>
 
-<div flex flex-row align-center justify-center> 
-        <h1> Hello </h1>
-</div>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ollienicholson&show_icons=true&theme=transparent&title_color=0096ff)
+<p> </p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ollienicholson&show_icons=true&theme=transparent&title_color=0096ff)
+Reach out via Discord @ollienicholson if you're keen to collaborate on a project
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ollienicholson&show_icons=true&icon_color=008F11&theme=transparent&title_color=008F11&text_color=000000)
